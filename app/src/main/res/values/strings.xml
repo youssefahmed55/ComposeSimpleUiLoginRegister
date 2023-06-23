@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimpleUi-Login-Register</string>
+    <string name="sign_in_image">Sign In Image</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="password_icon">Password Icon</string>
+    <string name="please_enter_email_address">Please enter email address!</string>
+    <string name="please_enter_the_password">Please enter the Password!</string>
+    <string name="logged_successfully">Logged Successfully</string>
+    <string name="create_an_account">Create an Account?</string>
+    <string name="sign_up_image">Sign Up Image</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="please_enter_name">Please enter Name!</string>
+    <string name="please_enter_the_phone_number">Please enter the Phone Number!</string>
+    <string name="please_enter_the_confirm_password">Please enter the Confirm Password!</string>
+    <string name="the_password_does_not_match">The password does not match!</string>
+    <string name="registered_successfully">Registered Successfully</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_instead">Login Instead</string>
+</resources>
